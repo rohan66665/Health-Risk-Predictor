@@ -1,0 +1,28 @@
+# Data processing
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning (optional if using PyTorch/TensorFlow)
+torch
+torchvision
+tensorflow
+
+# Web app
+streamlit
+
+# Misc
+joblib
+
+
+pandas
+scikit-learn
+streamlit
+joblib
